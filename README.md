@@ -11,7 +11,7 @@ ZipZorp is a totally useful program for creating extremely unique and efficient 
 
 ## Usage
 
-1. Start the main.py and suffer!
+1. Start the gui.py and suffer!
 
 ## Collab
 
